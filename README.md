@@ -1,6 +1,6 @@
 # UAS PRAKTIKUM PBK
 
-![preview img](/image_2024-06-16_175016331.png)
+![preview img](/preview.png)
 
 ```
 Yardan Hadziq
